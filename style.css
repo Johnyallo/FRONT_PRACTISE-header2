@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    
+}
+.container {
+    height: 300px;
+    background-color: #0dc7be;
+}
+.menu {
+    width: 1170px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+    height: 300px;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 30px;
+}
+.innercl {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.icon {
+    font-size: 50px;
+    margin-right: -45px;
+}
